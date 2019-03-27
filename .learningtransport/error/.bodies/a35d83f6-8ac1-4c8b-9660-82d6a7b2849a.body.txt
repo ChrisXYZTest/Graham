@@ -1,0 +1,1 @@
+<?xml version="1.0"?><InstagramAccountAdded xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/Graham.Messages.Events.InstagramAccount"><InstagramAccountId>10010</InstagramAccountId><Username>jacknewagain</Username><Password>string</Password></InstagramAccountAdded>
