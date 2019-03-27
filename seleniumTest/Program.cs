@@ -32,6 +32,7 @@ class GoogleSuggest
             //Notice navigation is slightly different than the Java version
             //This is because 'get' is a keyword in C#
             driver.Navigate().GoToUrl("https://www.instagram.com/accounts/login/?source=auth_switcher");
+        
 
             // Find the text input element by its name
             IWebElement query = driver.FindElement(By.ClassName("_9nyy2"));
